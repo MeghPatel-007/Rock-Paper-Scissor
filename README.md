@@ -35,6 +35,11 @@ Both let you play against the computer and test your luck!
 ## 💻 How to Run
 
 ### Python Version
-1. Navigate to the folder:
+
+1. Clone the repository:
    ```bash
-   cd rps-python
+   git clone https://github.com/MeghPatel-007/Rock-Paper-Scissor.git
+
+2. Navigate to the folder:
+   ```bash
+   cd PROJECT-RPS Game (py)
